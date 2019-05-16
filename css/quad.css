@@ -1,0 +1,28 @@
+.topo{
+    position: relative;
+    height: 150px;
+    width: 1024px;
+    background-color: #e817b8;
+}
+.domeio{
+    position: absolute;
+    left: 232px;
+    height: 500px;
+    width: 800px;
+    background-color: #0e2cd1
+}
+.menu_esquerdo{
+    position: relative;
+    height: 500px;
+    width: 224px;
+    background-color: #5cd81e;
+    
+}
+.debaixo{
+    position: relative;
+    height: 140px;
+    width: 1024px;
+    background-color: #ff1400;
+
+    
+}
